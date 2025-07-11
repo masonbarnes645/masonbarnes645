@@ -2,6 +2,11 @@
 <h3 align="center">Full-stack developer with expertise in JavaScript, React, and Python, coupled with experience in SQL database design and querying. Skilled in creating scalable, user-focused applications and adept at translating business requirements into effective technical solutions. Proficient in collaborative team practices, and front-end development, with a strong foundation in software engineering. Passionate about learning new technologies, solving complex challenges, and delivering high-quality, impactful software solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
+<ul> 
+<li>I'm based in Oakland, California</li>
+<li>Contact me at barnesmason980@gmail.com</li>
+<li>Open to Collaborating on Interesting Projects</li>
+</ul>
 <p align="left">
 </p>
 
